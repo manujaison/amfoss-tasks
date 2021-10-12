@@ -7,3 +7,4 @@ I booted the pen drive from the boot menu using f12 key.
 I installed ubuntu, selecting my preferences.
 Luckily I didn't encounter any error while installing ubuntu.
 It wasn't as hard as i thought.
+
