@@ -129,7 +129,7 @@ int Main(void)
                                 finalOutput[i] = alphabetInput; // ERROR: semicolon was not used 
                             }
                             else if( finalOutput[i] >= 'a' && finalOutput[i] <= 'z' )// ERROR: finalOutpu was used instead of finalOuput
-
+			    { // ERROR: '{' was missing
                                 continue;
                             }
 
