@@ -93,7 +93,7 @@ int Main(void)
             //Proper separation is the key!
             if (matchFound != 2)
             {
-                for(int counter=0;counter<length ;counter++) //ERROR: data type of counter was not declared and ',' was used instead of';''
+                for(counter=0;counter<length ;counter++) //ERROR:  ',' was used instead of';'
                 {
                     if(alphabetInput==inputWord[counter])
                     {
@@ -112,7 +112,7 @@ int Main(void)
                 else
             {
                 //Format the loops properly else iterate for eternity
-                for(int counter = 0; counter <= length; counter++) //ERROR: Data type of counter was not declared and =< was used instead of<=
+                for( counter = 0; counter <= length; counter++) //ERROR: =< was used instead of<=
                     {
                         matchFound = 0;
                         if(alphabetForUser != inputWord[counter]); // ERROR: alphabetFroUser used instead of alphabetForUser
