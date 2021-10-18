@@ -17,11 +17,11 @@ int main(void)
         {
             l++;
         }
-        if (c==' ')
+        else if (c==' ')
         {
             w++;
         }
-        if (c=='.'||c=='?'||c=='!')
+        else if (c=='.'||c=='?'||c=='!')
         {
             s++;
         }
@@ -34,7 +34,7 @@ int main(void)
     {
         printf("Grade 16+\n");
     }
-    if (index<1)
+    else if (index<1)
    {
         printf("Before Grade 1\n");
     }
