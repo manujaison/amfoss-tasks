@@ -32,7 +32,7 @@ int main(int argc,string argv[])
               printf("%c",(((text[j]-65)+add)%26)+65);
 
             }
-            if (islower(text[j]))
+            else if (islower(text[j]))
             {
                 printf("%c",(((text[j]-97)+add)%26)+97);
             }
