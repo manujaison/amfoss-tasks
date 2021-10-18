@@ -22,23 +22,23 @@ int main(int argc,string argv[])
                 return 1;
             }
         }
-        string text=get_string("plaintext:");
+        string t=get_string("plaintext:");
         printf("Ciphertext:");
-        for (int j=0,x=strlen(text);j<x;j++)
+        for (int j=0,x=strlen(t);j<x;j++)
         {
             int add=atoi(argv[1]);
-            if (isupper(text[j]))
+            if (isupper(t[j]))
             {
-              printf("%c",(((text[j]-65)+add)%26)+65);
+              printf("%c",(((t[j]-65)+add)%26)+65);
 
             }
-            else if (islower(text[j]))
+            else if (islower(t[j]))
             {
-                printf("%c",(((text[j]-97)+add)%26)+97);
+                printf("%c",(((t[j]-97)+add)%26)+97);
             }
             else
             {
-                printf("%c",text[j]);
+                printf("%c",t[j]);
             }
         }
         printf("\n");
