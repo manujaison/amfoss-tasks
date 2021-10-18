@@ -115,7 +115,7 @@ int Main(void)
                 for( counter = 0; counter <= length; counter++) //ERROR: =< was used instead of<=
                     {
                         matchFound = 0;
-                        if(alphabetForUser != inputWord[counter]); // ERROR: alphabetFroUser used instead of alphabetForUser
+                        if(alphabetInput != inputWord[counter]); // ERROR: alphabetFroUser used instead of alphabetInput and ';' was not required here
                     {
                         position = counter ;
                         matchFound = 1;
