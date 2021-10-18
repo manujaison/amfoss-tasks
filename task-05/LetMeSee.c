@@ -36,7 +36,7 @@ int Main(void)
         getchar();  //ERROR: getchr() was used instead of getchar() and semicolon was also missing.
         //Semantics are not to be overlooked!
         length = strlen(inputWord); // ERROR: The data type of length was nor declared , strln was used instead() of strlen() and semi colon was not used 
-        wrongTry =trail+1;//ERROR: order of assignment was wrong
+        trial =wrongTry-1;//ERROR: order of assignment was wrong
 
 
         system("cls");  //ERROR: semicolon was not used.
