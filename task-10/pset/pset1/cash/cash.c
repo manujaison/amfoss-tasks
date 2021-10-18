@@ -4,34 +4,34 @@
 
 int main(void)
 {
-    int count=0;
-    float change;
+    float cng;
+    int c=0;
     do
     { 
-        change=get_float("Change owed:");
+        cng=get_float("Change owed:");
     }
-    while (change<0);
+    while (cng<0);
     int cent=round(change*100);
     
     while (cent>=25)
     {
         cent=cent-25;
-        count++;
+        c++;
     }
     while (cent>=10)
     {
         cent=cent-10;
-        count++;
+        c++;
     }
     while (cent>=5)
     {
         cent=cent-5;
-        count++;
+        c++;
     }
     while (cent>=1)
     {
         cent=cent-1;
-        count++;
+        c++;
     }
     printf("%i\n",count);
 }
