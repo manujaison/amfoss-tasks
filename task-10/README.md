@@ -1,6 +1,4 @@
-# CS50 WEEK3
-<p>Through this lecture i learned about different type of sorting and about the time taken for eaxh one and about the algorithm></p>
-<p>I also learned that the users can create their own data type in using deftype struct. 
+
 # CS50 WEEK 1
 <p> Through the week 1 cs50 lectures i got an introduction to the programming language c.</p>
 <p>Its my first time working with c and i am really interested to learn more about c.</p>
@@ -11,3 +9,7 @@
 
 <p> Through this lecture i learned a lot about arrays in c. </p>
 <p>The problems in pset 2 were a bit diificult for me i encountered a lot of errors .Anyway it was really fun to do.</p>
+
+# CS50 WEEK3
+<p>Through this lecture i learned about different type of sorting and about the time taken for eaxh one and about the algorithm></p>
+<p>I also learned that the users can create their own data type in using deftype struct. 
