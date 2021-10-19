@@ -55,6 +55,4 @@ int main(int argc, string argv[])
             printf("%s\n",candidates[i].name);
         }
     }
-    return 1;
-    
 }
