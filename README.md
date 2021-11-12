@@ -88,9 +88,9 @@
     <td>Done 2 Questions</td>
   </tr>
 </table>
-# My Views about the task
+<h1>My Views about the task</h1>
 <p>I have not completed all the tasks, so i am just saying on the basis of the tasks that i have attempted. The tasks are not direct, for each task we have to learn some things first and then do it. I had to put significant effort to finish all the tasks that i have done. It is begineer friendly.</p>
-# My Introduction
+<h1>My Introduction </h1>
 <p>Hi Seniors, I am Gopika Santhosh from Kollam, Kerala. I came to know about amFOSS through the induction programme and i was really interested to be a part of the club since then. I feel that the club would give me an opportunity to improve my sills and acquire new knowledge. I am just a beginner i only knew python before doing the tasks now my knowledge has improved due to the tasks. At first when i saw the tasks i felt overwhelmed but as each day passed i was learning more and more new things i loved it.</p>
   
     
