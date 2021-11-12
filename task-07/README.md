@@ -1,1 +1,3 @@
 
+# RICH SCRAPER
+Not Attempted
