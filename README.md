@@ -8,7 +8,7 @@
     <th>Status</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/GopikaSanthosh/amfoss-tasks/task-01.git">Task-01</a></td>
+    <td><a href="https://github.com/GopikaSanthosh/amfoss-tasks/task-0.git">Task-0</a></td>
     <td>Installing ubuntu</td>
     <td>Completed</td>
   </tr>
