@@ -1,7 +1,7 @@
 # INTROSPECTION
-<h3>Why must we choose you?</p>
+<h3>Why must we choose you?</h3>
 <p>In 11 th and 12 th I chose Computer Science just beacuse i hated Biology. When i started studying coding i enjoyed doing it so much and i knew this is my thing and i am gonna make a living out of it. While I am coding I never fell like doing some work or putting some effort eventhough i am doing it for hours it always feel like having fun . I just want to learn more than just acdemic stuff. Learning new stuff is something I always enjoy especially in the field of tech. I think after seeing my interest in coding and learning new stuff amFOSS can consider choosing me. </p>
-<h3>What is your plan for the next six months?</p>
+<h3>What is your plan for the next six months?</h3>
 <p></p>
 <h3>How would you contribute back to the club?</h3>
 <p>I would try my best to do whatever the club wants from me.</p>
