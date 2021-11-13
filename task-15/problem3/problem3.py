@@ -5,6 +5,6 @@ for i in range(t):
     while i*i<n:
         while n%i==0:
             n=n/i
-            i=i+1
+            i+=1
     print(int(n))
     
