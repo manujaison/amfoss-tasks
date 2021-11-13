@@ -85,7 +85,7 @@
    <tr>
     <td><a href="https://github.com/GopikaSanthosh/amfoss-tasks/tree/main/task-15">Task-15</a></td>
     <td>Project Euler</td>
-    <td>Done 2 Questions</td>
+    <td>Done 3 Questions</td>
   </tr>
 </table>
 <h1>My Views about the task</h1>
