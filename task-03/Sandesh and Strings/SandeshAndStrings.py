@@ -9,7 +9,7 @@ for i in range (n):
         f+=s[i]
     elif s.count(s[i])%2!=0 and len(m)<1 and n%2==0:
         m+=s[i]
-    elif s.count(s[i])%2!=0 and s[i] not in f and n%2!=0 and s.count(s[n//2])%2==0:
+    elif s.count(s[i])%2!=0 and n%2!=0 and s.count(s[n//2])%2==0 and len(m)<1:
         m+=s[i]
 if n%2!=0 and s.count(s[n//2])%2!=0:
     m+=s[n//2]
